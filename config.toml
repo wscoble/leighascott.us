@@ -1,0 +1,8 @@
+baseurl = "http://leighascott.us/"
+languageCode = "en-us"
+title = "Leigha + Scott"
+theme = "hugo-theme-bleak"
+
+[params]
+  logo = "/images/superman_logo.png"
+  gplus = "+ScottScoble"
