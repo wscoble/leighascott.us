@@ -5,4 +5,5 @@ theme = "hugo-theme-bleak"
 
 [params]
   logo = "/images/superman_logo.png"
+  cover = "/images/branches.jpg"
   gplus = "+ScottScoble"
