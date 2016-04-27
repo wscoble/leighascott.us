@@ -3,7 +3,7 @@ date = "2016-04-27T09:00:00-07:00"
 draft = false
 image = "/images/calendar.jpg"
 title = "When should we have our wedding?"
-description = "Please take part in our poll"
+description = "Please help us pick a date"
 +++
 
 Please take part in this poll to help us choose a date.

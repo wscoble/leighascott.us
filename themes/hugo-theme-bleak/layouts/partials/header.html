@@ -74,25 +74,21 @@
     {{ partial "criticalpath.html" . }}
 
     </head>
-    <body class="home-template" style="display: none;">
+    <body class="home-template">
       <section id="wrapper">
         <div id="ajax-container">
           <nav id="nav" class="nav">
             <div class="nav-logo">
               <a href="{{ .Site.BaseURL }}">
-                {{ if isset .Site.Params "logo" }}
                 <img src="{{ .Site.Params.logo }}" alt="Logo" />
-                {{ else }}
-                <img src="https://www.gravatar.com/avatar/1a2807faf3cca1667ff6f04bf5886eff.png" alt="Logo" />
-                {{ end }}
               </a>
             </div>
             <div class="nav-menu">
+              <a class="subscribe" href="{{.Site.Params.subscribe}}">
+                <span>Subscribe</span>
+              </a>
               <a class="rss" href="{{.RSSLink}}">
                 <i class="icon-rss"></i>
               </a>
-              {{ if .IsPage }}
-              <a class="menu" data-action="menu" data-target="menu"><i class="icon-menu"></i></a>
-              {{ end }}
             </div>
           </nav>
