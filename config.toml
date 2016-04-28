@@ -4,7 +4,7 @@ title = "Leigha + Scott"
 theme = "hugo-theme-bleak"
 
 [params]
-  logo = "/images/superman_logo.png"
+  logo = "/images/home.png"
   cover = "/images/branches.jpg"
   gplus = "+ScottScoble"
   subscribe = "http://eepurl.com/bZD7P1"
