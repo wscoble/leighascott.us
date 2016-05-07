@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:sscoble@codesmith.ws
+DTSTAMP:20161126T173000Z
+ORGANIZER;CN=Scott Scoble and Leigha Steen:MAILTO:sscoble@codesmith.ws
+DTSTART:20161126T173000Z
+DTEND:20161126T220000Z
+SUMMARY:Scott Scoble and Leigha Steen Wedding (save the date!)
+END:VEVENT
+END:VCALENDAR

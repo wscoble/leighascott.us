@@ -6,6 +6,6 @@ title = "When should we have our wedding?"
 description = "Please help us pick a date"
 +++
 
-Please take part in this poll to help us choose a date.
-
-<iframe src="http://www.strawpoll.me/embed_1/10064930" style="width:600px;height:540px;border:0;">Loading poll...</iframe>
+Thank you for helping us decide the best date for our wedding. We have chosen
+November 26th, 2016 as our date. Subscribe to stay up to date with our wedding
+plans.
