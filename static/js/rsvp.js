@@ -3,7 +3,7 @@
     getInitialState: function() {
       return {
         family: '',
-        guests: 2,
+        guests: 0,
         children: 0,
         wedding: true,
         reception: true,
@@ -72,6 +72,7 @@
         <span>
           <p>Thank you!</p>
           <p>You have RSVP'd {this.props.guests} guests with {this.props.children} children for the {this.props.family} family.</p>
+          <p>Please visit one of our <a href="/post/registry/">gift registries</a> if you're considering a gift for us.</p>
         </span>
       )
     }
